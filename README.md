@@ -17,7 +17,7 @@ Talan CLI (`tln`) is an open-source framework for managing third-party component
 * Make sure that `wget` is accessible via command line (Linux/MacOS)
 * Make sure that `Powershell` script can be executed:
   ```
-  > set-executionpolicy remotesigned
+  > set-ExecutionPolicy remotesigned
   or
   > set-ExecutionPolicy unrestricted
   ```
